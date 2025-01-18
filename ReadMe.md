@@ -6,3 +6,6 @@ Created Add method
 
 Task3:
 Created Sub method
+
+Task4:
+Created Multiply method
