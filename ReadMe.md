@@ -9,3 +9,6 @@ Created Sub method
 
 Task4:
 Created Multiply method
+
+Task5:
+Created Division method
